@@ -7,10 +7,12 @@ summary{
 	padding:5px;
 	background-color:yellow;
 	left-margin:20 px;
+	border:2px solid red;
 }
 #quote{
 	padding:5px;
 	background-color:greenyellow;
 	margin:20 px;
+	border:2px solid green;
 }
 /* Your CSS Code here. */
