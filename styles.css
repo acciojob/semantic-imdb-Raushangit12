@@ -1,2 +1,16 @@
-
+summary{
+	padding:10px;
+	background-color:grey;
+	margin:10px;
+}
+#actor{
+	padding:5px;
+	background-color:yellow;
+	left-margin:20 px;
+}
+#quote{
+	padding:5px;
+	background-color:greenyellow;
+	margin:20 px;
+}
 /* Your CSS Code here. */
